@@ -1,8 +1,8 @@
 fun main()
 {
     var int:Int=10
-    var double:Double=10.2
-    var str:String="111"
+    var double:Double=20.2
+    var str:String="30"
     println("Iteger: $int")
     println("Double: $double")
     println("String: $str")
